@@ -1,8 +1,8 @@
 menu:
     Blog: /
     Archive: /archives/
-    Weibo: http://weibo.com/sunchongsheng
-    GitHub: https://github.com/pinggod
+    Weibo: http://weibo.com/lyloou
+    GitHub: https://github.com/lyloou
     Rss: /atom.xml
 
 favicon: /favicon.png
@@ -16,7 +16,7 @@ cloudTie:
 
 # Analytics
 # google-analytics:
-ga: UA-65933410-1
+ga: UA-80542932-1 
 
 # Copyright Infomation
-startyear: 2015
+startyear: 2016
